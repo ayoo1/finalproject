@@ -12,6 +12,7 @@
 		8D32DD3422A708AB00C70718 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D32DD3222A708AB00C70718 /* Main.storyboard */; };
 		8D32DD3622A708AD00C70718 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D32DD3522A708AD00C70718 /* Assets.xcassets */; };
 		8D32DD3922A708AD00C70718 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D32DD3722A708AD00C70718 /* LaunchScreen.storyboard */; };
+		8D740B6E22B97E5200FCFB8E /* README in Resources */ = {isa = PBXBuildFile; fileRef = 8D740B6D22B97E5200FCFB8E /* README */; };
 		8D78CF0F22A867210094A613 /* bruh.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8D78CF0E22A867210094A613 /* bruh.wav */; };
 		8DBBE0F622A9ACDE000568D9 /* alarm.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8DBBE0F522A9ACDD000568D9 /* alarm.wav */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 		8D32DD3522A708AD00C70718 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D32DD3822A708AD00C70718 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D32DD3A22A708AD00C70718 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D740B6D22B97E5200FCFB8E /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		8D78CF0E22A867210094A613 /* bruh.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bruh.wav; sourceTree = "<group>"; };
 		8DBBE0F522A9ACDD000568D9 /* alarm.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = alarm.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +63,7 @@
 				8D78CF0D22A866C10094A613 /* Sound Files */,
 				8D32DD2E22A708AB00C70718 /* AppDelegate.swift */,
 				8D32DD3022A708AB00C70718 /* ViewController.swift */,
+				8D740B6D22B97E5200FCFB8E /* README */,
 				8D32DD3222A708AB00C70718 /* Main.storyboard */,
 				8D32DD3522A708AD00C70718 /* Assets.xcassets */,
 				8D32DD3722A708AD00C70718 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				8D78CF0F22A867210094A613 /* bruh.wav in Resources */,
 				8D32DD3622A708AD00C70718 /* Assets.xcassets in Resources */,
 				8D32DD3422A708AB00C70718 /* Main.storyboard in Resources */,
+				8D740B6E22B97E5200FCFB8E /* README in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
