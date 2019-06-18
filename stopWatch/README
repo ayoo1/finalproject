@@ -10,4 +10,5 @@ from 60 seconds
 
 Self-Evaluation
 
-  -
+-No thing really went wrong but I had no time to do more due to my own fault wasting time, and etc I did fall behind schedule due to the fact that it took a long time to finish phidgets to fix this in the future I would try to plan and work more efficiently to finish my previous tasks ahead of time. I ran into finding a way to stop/play the sound within my iboutlet but it was a simple fix to add in my func i added   player?.stop() and  player?.currentTime = 0. I would redo the app starting from trying to use a uipicker instead of a label to begin with the label makes the app limited.
+
